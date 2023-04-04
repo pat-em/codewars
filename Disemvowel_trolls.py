@@ -5,5 +5,3 @@ def disemvowel(string_):
             string_ = string_.replace(i, "")
     
     return string_
-
-print(disemvowel("This website is for losers LOL!"))
